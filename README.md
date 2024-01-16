@@ -8,27 +8,27 @@ focused retention tactics. The project is driven by the objective of sustaining 
 advantage in the dynamic telecommunications industry.
 
 
-# Steps Taken for Churn Analysis:
+## Steps Taken for Churn Analysis:
 
 Data Collection: I started by collecting important customer details, their service
 subscriptions, and their past engagement with the company.
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 I investigated the data to understand how key features are distributed, find patterns, and
 discover potential insights, by conducting univariate, bivariate and multivariate analysis.
 
-# Machine Learning Model Development
+## Machine Learning Model Development
 
 I made and trained a machine learning model to predict churn, using algorithms like Logistic
 Regression, Random Forest, and Decision Tree.
 
-# Model Evaluation and Optimization
+## Model Evaluation and Optimization
 
 I thereafter checked how well the model performed using metrics such as accuracy,
 precision, recall, and F1-score.
 
-# Retention Strategies
+## Retention Strategies
 
 Using the predictive analytics about who might churn, measures are highlighted to be taken
 into action specific plans to keep customers from churning.
