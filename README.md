@@ -8,7 +8,7 @@ focused retention tactics. The project is driven by the objective of sustaining 
 advantage in the dynamic telecommunications industry.
 
 
-# Steps Taken for Churn Analysis:
+## Steps Taken for Churn Analysis:
 
 ### Data Collection
 
@@ -35,7 +35,7 @@ precision, recall, and F1-score.
 Using the predictive analytics about who might churn, measures are highlighted to be taken
 into action specific plans to keep customers from churning.
 
-# Challenges Encountered during the Analysis
+## Challenges Encountered during the Analysis
 
 Data Quality and Missing Values: I had to first clean and preprocess data that was missing
 or inconsistent. And some outliers were discovered in the data.
@@ -44,7 +44,7 @@ Model Adoption: Ensure that the best machine learning models are adopted because
 of these ML models' performances are somehow close in some respect. Logistic Regression
 was later adopted after careful consideration.
 
-# Summary: 
+## Summary: 
 
 ConnectTel Limited should consider its business goals and the potential impacts
 of false negatives and false positives to determine the most important metrics. If the cost of
